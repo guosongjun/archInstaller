@@ -1,0 +1,6 @@
+[submodule "dwm"]
+	path = dwm
+	url = https://gitee.com/tering/dwm.git
+[submodule "home"]
+	path = home
+	url = https://gitee.com/tering/home.git
